@@ -1,12 +1,12 @@
-## Hi there This hsatokon👋
+## Hi there This is hsatokon👋
 
 <!--
 **hsatokon/hsatokon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <!-- ここに簡単な自己紹介を1〜2行（例: 学習中のこと、興味のある分野） -->
-COACHTECH でフルスタックWeb開発を学習中の<例: Web系エンジニア志望>です。
-<例: ユーザーの体験を考えながらサービスを作ることに興味があります。>
+COACHTECH でフルスタックWeb開発を学習中の Web系エンジニア志望です。
+
 
 ---
 
